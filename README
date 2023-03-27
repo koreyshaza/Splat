@@ -1,5 +1,5 @@
 # Техническое задание на настройку целей в квизе https://promo.splatglobal.com/diagnostics/
-Необходимо установить счетчики Яндекс.Метрика и Google Analytics и прописать ________ в коде страниц квиза https://promo.splatglobal.com/diagnostics/ для фиксации целей Яндекс.Метрика и Google Analytics
+Необходимо установить счетчики Яндекс.Метрика и Google Analytics и прописать идентицикаторы/названия событий и их параметры в коде страниц квиза https://promo.splatglobal.com/diagnostics/ для фиксации целей Яндекс.Метрика и Google Analytics
 ## Зачем
 Необходимо, что при срабатывании Javacript события на страницах квиза https://promo.splatglobal.com/diagnostics/ данные о срабатывании передавались в Яндекс.Метрику и Google Analytics.
 Где они будут фиксироваться и отображаться.
