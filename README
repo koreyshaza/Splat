@@ -49,6 +49,6 @@
 
 Подробнее про настройку событий: https://developers.google.com/analytics/devguides/collection/ga4/events?hl=ru&client_type=gtag
 https://developers.google.com/analytics/devguides/collection/gtagjs/events?hl=ru
-Перечень возможных типов событий: https://developers.google.com/gtagjs/reference/event?hl=ru
+Перечень возможных типов событий: https://developers.google.com/gtagjs/reference/ga4-events?hl=ru
 
 
